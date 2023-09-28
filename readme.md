@@ -111,9 +111,8 @@ This page allows users to input their shipping address details.
 ![Profile Page (Desktop)](images/ProflePgae-dektop.png)
 
 Registered users can manage their profiles and update personal information.
+### Product Search
 
-## Contributing
+![Product Search](images/search.gif)
 
-If you would like to contribute to this project, please open an issue or submit a pull request.
-
-## License
+This GIF demonstrates how the search functionality allows users to easily find products by entering keywords.
